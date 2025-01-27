@@ -1,4 +1,4 @@
-# `EDM115/website`
+# `MOGASALA HEMAGIRI `
 Basically my website, hosted at [edm115.dev](https://edm115.dev) ([edm115.eu.org](https://edm115.eu.org) is a backup (also available at [old.edm115.dev](https://old.edm115.dev)), real-time preview of the latest commit at [edm115.netlify.app](https://edm115.netlify.app))
 
 [![DeepSource](https://app.deepsource.com/gh/EDM115/website.svg/?label=active+issues&show_trend=true&token=N0wq5KKIR-8bZ-Jsa88xTbRm)](https://app.deepsource.com/gh/EDM115/website/)
@@ -35,7 +35,7 @@ Basically my website, hosted at [edm115.dev](https://edm115.dev) ([edm115.eu.org
 
 ## Minimal repro
 ```bash
-git clone https://github.com/EDM115/website.git && cd website
+git clone https://github.com/MogasalaHemagiri/website.git && cd website
 npm run i
 npm run dev
 ```
