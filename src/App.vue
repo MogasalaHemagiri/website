@@ -17,7 +17,7 @@
           style="color: inherit;"
           :to="{ name: 'home' }"
         >
-          <v-app-bar-title>EDM115</v-app-bar-title>
+          <v-app-bar-title>MOGASALA HEMAGIRI</v-app-bar-title>
         </RouterLink>
 
         <template #append>
@@ -127,7 +127,7 @@
 {
   "en": {
     "close": "Close",
-    "head": "EDM115 - French dev/student/gamer/music producer",
+    "head": "MOGASALA HEMAGIRI Indian dev/student/gamer/Entrepreneur",
     "indev": {
       "oldSite": "Visit the old website",
       "title": "In development",
